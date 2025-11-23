@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://google.com/",
+    "status": 200,
+    "server": "gws",
+    "waf": "f5",
+    "cms": null,
+    "title": "Google"
+  },
+  {
+    "url": "http://google.com/",
+    "status": 200,
+    "server": "gws",
+    "waf": null,
+    "cms": null,
+    "title": "Google"
+  }
+]
