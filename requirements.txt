@@ -1,0 +1,7 @@
+requests>=2.28
+colorama>=0.4
+beautifulsoup4>=4.11
+
+# aiohttp normal version fails to compile on Termux,
+# so we use a pure-Python compatible fork:
+aiohttp==3.9.0

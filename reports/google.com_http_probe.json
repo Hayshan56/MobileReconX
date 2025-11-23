@@ -1,0 +1,174 @@
+[
+  {
+    "url": "https://google.com/",
+    "status_code": 200,
+    "final_url": "https://www.google.com/",
+    "history": [
+      301
+    ],
+    "server": "gws",
+    "content_type": "text/html; charset=ISO-8859-1",
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 01:50:26 GMT",
+      "Expires": "-1",
+      "Cache-Control": "private, max-age=0",
+      "Content-Type": "text/html; charset=ISO-8859-1",
+      "Content-Security-Policy-Report-Only": "object-src 'none';base-uri 'self';script-src 'nonce-sl6Lpzsg_f9p0TplJDcQZA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp",
+      "Accept-CH": "Sec-CH-Prefers-Color-Scheme",
+      "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+      "Content-Encoding": "gzip",
+      "Server": "gws",
+      "X-XSS-Protection": "0",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Set-Cookie": "AEC=AaJma5u8B_3GUmP5SRizE75UfJCG0fBTK62jamtWGXYfhec8veYvjUyHytc; expires=Fri, 22-May-2026 01:50:26 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=526=dUBwDe3VP3AtYrtdHXbC5TodlxZLDOsUsUhSZNEaLjBTIfi26sG3UOrBazkrJlJ2Eki1vn8x9orQ9MCzQzuTEJ1kBQtGoH0kDEeUijJIbJHMby06i7Q7mPgfI8J3skDPBC-p-peOTSB1e9ucsFlDy-m3v8vujWwwxuwr08UJY5vDcqBhE88QPm5z1IfUnhUeIj5wwaiQTumDNQaDE9aKDP4nzGCG5-Ev; expires=Mon, 25-May-2026 01:50:26 GMT; path=/; domain=.google.com; HttpOnly",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "Transfer-Encoding": "chunked"
+    },
+    "length": 18009,
+    "reason": "OK"
+  },
+  {
+    "url": "https://google.com/robots.txt",
+    "status_code": 200,
+    "final_url": "https://www.google.com/robots.txt",
+    "history": [
+      301
+    ],
+    "server": "sffe",
+    "content_type": "text/plain",
+    "headers": {
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Content-Type": "text/plain",
+      "Cross-Origin-Resource-Policy": "cross-origin",
+      "Cross-Origin-Opener-Policy-Report-Only": "same-origin; report-to=\"static-on-bigtable\"",
+      "Report-To": "{\"group\":\"static-on-bigtable\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/static-on-bigtable\"}]}",
+      "Date": "Sun, 23 Nov 2025 01:50:26 GMT",
+      "Expires": "Sun, 23 Nov 2025 01:50:26 GMT",
+      "Cache-Control": "private, max-age=0",
+      "Last-Modified": "Thu, 13 Nov 2025 19:00:00 GMT",
+      "X-Content-Type-Options": "nosniff",
+      "Server": "sffe",
+      "X-XSS-Protection": "0",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "Transfer-Encoding": "chunked"
+    },
+    "length": 7322,
+    "reason": "OK"
+  },
+  {
+    "url": "https://google.com/.well-known/security.txt",
+    "status_code": 200,
+    "final_url": "https://www.google.com/.well-known/security.txt",
+    "history": [
+      301
+    ],
+    "server": "sffe",
+    "content_type": "text/plain",
+    "headers": {
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept-Encoding",
+      "Content-Type": "text/plain",
+      "Cross-Origin-Resource-Policy": "cross-origin",
+      "Cross-Origin-Opener-Policy-Report-Only": "same-origin; report-to=\"static-on-bigtable\"",
+      "Report-To": "{\"group\":\"static-on-bigtable\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/static-on-bigtable\"}]}",
+      "Content-Length": "275",
+      "Date": "Sun, 23 Nov 2025 01:50:27 GMT",
+      "Expires": "Sun, 23 Nov 2025 01:50:27 GMT",
+      "Cache-Control": "private, max-age=0",
+      "Last-Modified": "Tue, 01 Apr 2025 12:00:00 GMT",
+      "X-Content-Type-Options": "nosniff",
+      "Server": "sffe",
+      "X-XSS-Protection": "0",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+    },
+    "length": 275,
+    "reason": "OK"
+  },
+  {
+    "url": "http://google.com/",
+    "status_code": 200,
+    "final_url": "http://www.google.com/",
+    "history": [
+      301
+    ],
+    "server": "gws",
+    "content_type": "text/html; charset=ISO-8859-1",
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 01:50:27 GMT",
+      "Expires": "-1",
+      "Cache-Control": "private, max-age=0",
+      "Content-Type": "text/html; charset=ISO-8859-1",
+      "Content-Security-Policy-Report-Only": "object-src 'none';base-uri 'self';script-src 'nonce-zc-JR19Uz3C1S7bDI8-4JQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp",
+      "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+      "Content-Encoding": "gzip",
+      "Server": "gws",
+      "X-XSS-Protection": "0",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Set-Cookie": "AEC=AaJma5vVjqeE_-J3cdwu_sQqhSU4tMrHyETaK2luCvCH0umbGaBNI-FuNow; expires=Fri, 22-May-2026 01:50:27 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=526=YL7ZyDauCB_LxUh8kwShxLEuch0K1Rzc5MAuwV25AJydE-kDcBP6vRB803cK8s9daxUVG_iZ79978P57JCHm1KmTv3R9NCz8Q8No0X3O_ZUkW_xpySOwFDWrNnJFtWhiZJhUX1nGznsJmou7WmyLKvIEXU2xLKj0hUEM5W4n-nVMOmtSmNlFSlNyX0f6jXqw6Ymhw47_4AR7te7ANpwUHRi9crxAUii2gQ; expires=Mon, 25-May-2026 01:50:27 GMT; path=/; domain=.google.com; HttpOnly",
+      "Transfer-Encoding": "chunked"
+    },
+    "length": 18045,
+    "reason": "OK"
+  },
+  {
+    "url": "http://google.com/robots.txt",
+    "status_code": 200,
+    "final_url": "https://www.google.com/robots.txt",
+    "history": [
+      301
+    ],
+    "server": "sffe",
+    "content_type": "text/plain",
+    "headers": {
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Content-Type": "text/plain",
+      "Cross-Origin-Resource-Policy": "cross-origin",
+      "Cross-Origin-Opener-Policy-Report-Only": "same-origin; report-to=\"static-on-bigtable\"",
+      "Report-To": "{\"group\":\"static-on-bigtable\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/static-on-bigtable\"}]}",
+      "Date": "Sun, 23 Nov 2025 01:50:28 GMT",
+      "Expires": "Sun, 23 Nov 2025 01:50:28 GMT",
+      "Cache-Control": "private, max-age=0",
+      "Last-Modified": "Thu, 13 Nov 2025 19:00:00 GMT",
+      "X-Content-Type-Options": "nosniff",
+      "Server": "sffe",
+      "X-XSS-Protection": "0",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "Transfer-Encoding": "chunked"
+    },
+    "length": 7322,
+    "reason": "OK"
+  },
+  {
+    "url": "http://google.com/.well-known/security.txt",
+    "status_code": 200,
+    "final_url": "https://www.google.com/.well-known/security.txt",
+    "history": [
+      301
+    ],
+    "server": "sffe",
+    "content_type": "text/plain",
+    "headers": {
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept-Encoding",
+      "Content-Type": "text/plain",
+      "Cross-Origin-Resource-Policy": "cross-origin",
+      "Cross-Origin-Opener-Policy-Report-Only": "same-origin; report-to=\"static-on-bigtable\"",
+      "Report-To": "{\"group\":\"static-on-bigtable\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/static-on-bigtable\"}]}",
+      "Content-Length": "275",
+      "Date": "Sun, 23 Nov 2025 01:50:28 GMT",
+      "Expires": "Sun, 23 Nov 2025 01:50:28 GMT",
+      "Cache-Control": "private, max-age=0",
+      "Last-Modified": "Tue, 01 Apr 2025 12:00:00 GMT",
+      "X-Content-Type-Options": "nosniff",
+      "Server": "sffe",
+      "X-XSS-Protection": "0",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+    },
+    "length": 275,
+    "reason": "OK"
+  }
+]

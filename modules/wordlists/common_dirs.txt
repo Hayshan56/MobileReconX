@@ -1,0 +1,21 @@
+# Small common dirs shipped with MobileReconX. Replace with bigger lists locally.
+admin
+administrator
+login
+dashboard
+config
+backup
+backup.zip
+backup.tar.gz
+db
+db.sql
+wp-login.php
+wp-admin/
+xmlrpc.php
+cgi-bin/
+uploads
+.htaccess
+.env
+phpmyadmin
+server-status
+manager/html
